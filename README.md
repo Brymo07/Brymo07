@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Felix, a software developer student at ALX SE/Holberton School!
+
+During your visit to my profile you could notice my evolution as a developer.  How my commits were getting better and better with time and the technologies and approach that I've given to every task.  Enjoy!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Felix-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=brymoofficial_ "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-Felix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-owusu/)](https://www.linkedin.com/in/felix-owusu/)
+
+![Felix's github stats](https://github-readme-stats.vercel.app/api?username=Brymo07&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brymo07&layout=compact)
