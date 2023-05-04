@@ -24,7 +24,8 @@ So, sit back and enjoy the journey with me!
 [![Twitter Badge](https://img.shields.io/badge/-@Felix-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=brymoofficial_ "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-Felix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-owusu/)](https://www.linkedin.com/in/felix-owusu/)
 
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brymo07&show_icons=true&bg_color=30,4b6cb7,182848&title_color=fff&text_color=fff&icon_color=03a9f4)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brymo07&layout=compact&bg_color=30,4b6cb7,182848&title_color=fff&text_color=fff) 
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brymo07&show_icons=true&title_color=E86A33&text_color=41644A&icon_color=41644A&bg_color=F2E3DB&hide_border=true&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brymo07&layout=compact&title_color=E86A33&text_color=41644A&icon_color=41644A&bg_color=F2E3DB&hide_border=true&border_radius=10)
 
 Let's build something amazing together!
