@@ -24,9 +24,12 @@ So, sit back and enjoy the journey with me!
 [![Twitter Badge](https://img.shields.io/badge/-@Felix-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=brymoofficial_ "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-Felix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-owusu/)](https://www.linkedin.com/in/felix-owusu/)
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brymo07&show_icons=true&title_color=E96479&text_color=4D455D&icon_color=4D455D&bg_color=linear-gradient(135deg, #F5E9CF, #7DB9B6)&hide_border=true&border_radius=10)
+![Felix's github stats](https://github-readme-stats.vercel.app/api?username=Brymo07&show_icons=true&title_color=B8621B&icon_color=E3CCAE&bg_color=262A56&text_color=E3CCAE&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brymo07&layout=compact&title_color=E96479&text_color=4D455D&icon_color=4D455D&bg_color=linear-gradient(135deg, #F5E9CF, #7DB9B6)&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brymo07&layout=compact&title_color=B8621B&bg_color=000000&text_color=E3CCAE&hide_border=true)
+
+
+
 
 
 Let's build something amazing together!
