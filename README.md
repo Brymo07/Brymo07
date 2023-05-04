@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Felix, a software developer student at ALX SE/Holberton School!
+### Welcome to my Profile! 👋
 
-During your visit to my profile you could notice my evolution as a developer.  How my commits were getting better and better with time and the technologies and approach that I've given to every task.  Enjoy!
+I'm Felix, a software development student at ALX SE/Holberton School! As you explore my profile, you'll notice my growth and evolution as a developer. My dedication and passion for coding have driven me to constantly improve and learn new technologies. 
+
+So, sit back and enjoy the journey with me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Felix-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=brymoofficial_ "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-Felix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-owusu/)](https://www.linkedin.com/in/felix-owusu/)
 
-![Felix's github stats](https://github-readme-stats.vercel.app/api?username=Brymo07&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brymo07&layout=compact)
+![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brymo07&show_icons=true&bg_color=30,4b6cb7,182848&title_color=fff&text_color=fff&icon_color=03a9f4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brymo07&layout=compact&bg_color=30,4b6cb7,182848&title_color=fff&text_color=fff) 
+
+Let's build something amazing together!
