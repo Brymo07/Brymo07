@@ -25,7 +25,6 @@ So, sit back and enjoy the journey with me!
 [![Linkedin Badge](https://img.shields.io/badge/-Felix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-owusu/)](https://www.linkedin.com/in/felix-owusu/)
 
 ![Felix's github stats](https://github-readme-stats.vercel.app/api?username=Brymo07&show_icons=true&title_color=B8621B&icon_color=E3CCAE&bg_color=262A56&text_color=E3CCAE&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brymo07&layout=compact&title_color=B8621B&bg_color=000000&text_color=E3CCAE&hide_border=true)
 
 
