@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Welcome to my Profile! 👋
 
-I'm Felix, a software development student at ALX SE/Holberton School! As you explore my profile, you'll notice my growth and evolution as a developer. My dedication and passion for coding have driven me to constantly improve and learn new technologies. 
+I'm Felix, a software development graduate at ALX SE/Holberton School! As you explore my profile, you'll notice my growth and evolution as a developer. My dedication and passion for coding have driven me to constantly improve and learn new technologies. 
 
 So, sit back and enjoy the journey with me!
 
